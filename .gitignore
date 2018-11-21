@@ -23,3 +23,5 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+main/target/generated-sources/
+main/target/generated-test-sources/
