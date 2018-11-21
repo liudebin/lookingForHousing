@@ -1,12 +1,15 @@
-package qian.ling.yi.lookForHousing;
+package lookfor.housing.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author liuguobin
+ */
 @SpringBootApplication
-public class LookForHousingApplication {
+public class MainApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LookForHousingApplication.class, args);
+		SpringApplication.run(MainApplication.class, args);
 	}
 }
