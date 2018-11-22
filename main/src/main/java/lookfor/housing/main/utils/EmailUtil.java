@@ -1,11 +1,12 @@
 package lookfor.housing.main.utils;
 
 /**
- * TODO
+ * EmailUtil
  *
  * @date: 2018/11/21.
  * @author: guobin.liu@holaverse.com
  */
 
 public class EmailUtil {
+
 }
